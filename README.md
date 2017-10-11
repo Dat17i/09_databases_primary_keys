@@ -1,6 +1,13 @@
 # Dag 15 Databaser og Relationer mellem Tabeller
 Agenda 11-10-2017
 
+Database
+Tables
+Collumns
+Rows
+
+
+
 Tools:
 * [DataGrip](https://www.jetbrains.com/datagrip/?fromMenu)
 
