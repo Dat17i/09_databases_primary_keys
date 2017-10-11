@@ -1,4 +1,4 @@
-# Dag 15 Databaser og Relationer mellem Tabeller
+# Dag 15 Databaser og Primary Keys
 Agenda 11-10-2017
 
 Database
