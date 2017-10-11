@@ -12,9 +12,9 @@ Slides:
 Tools:
 * [DataGrip](https://www.jetbrains.com/datagrip/?fromMenu)
 
-<!--
+´
 Exercises:
-* [Zalando](https://docs.google.com/document/d/1vI-ydhc2TizLkENeCZUhEo41OTKvkHDu9HPNuznWNd8/pub)
+* [Zalando](https://docs.google.com/document/d/e/2PACX-1vT1o_3OQRlABEbRY79xQXejyIqiCUMEAzeQQw4-TTrBj6ViS1uB1j2jsZuYXsV306pNHa3tJs-YqGjP/pub)
 
--->
+
 
