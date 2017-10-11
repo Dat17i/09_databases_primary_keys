@@ -1,2 +1,2 @@
-# 02_15_databaser_relationer_mellem_tabeller
+# Day 15 Databaser Relationer mellem Tabeller
 Agenda 11-10-2017
