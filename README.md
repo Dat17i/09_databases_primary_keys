@@ -6,7 +6,8 @@ Tables
 Collumns
 Rows
 
-
+Slides:
+* [Primary Keys](https://github.com/dat17v1/02_15_databaser_relationer_mellem_tabeller/blob/master/slides/Database%20modeling_%20tables%20-%20keys.pdf)
 
 Tools:
 * [DataGrip](https://www.jetbrains.com/datagrip/?fromMenu)
