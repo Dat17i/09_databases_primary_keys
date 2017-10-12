@@ -3,7 +3,6 @@ Agenda 11-10-2017
 
 
 ## Literatur:
-* [SQL PRIMARY KEY](https://www.w3schools.com/sql/sql_primarykey.asp)
 ### Video:
 * [The features of a relational database](https://www.lynda.com/Programming-Foundations-tutorials/features-relational-database/412845/438417-4.html?autoplay=true)
 * [Exploring unique values and primary keys](https://www.lynda.com/Programming-Foundations-tutorials/Exploring-unique-values-primary-keys/412845/438418-4.html?autoplay=true)
