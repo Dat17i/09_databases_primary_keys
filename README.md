@@ -21,6 +21,7 @@ Agenda 11-10-2017
 
 ## Exercises:
 * [Zalando](https://docs.google.com/document/d/e/2PACX-1vT1o_3OQRlABEbRY79xQXejyIqiCUMEAzeQQw4-TTrBj6ViS1uB1j2jsZuYXsV306pNHa3tJs-YqGjP/pub)
+* [W3Schools SQL Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL)
 
 
 
