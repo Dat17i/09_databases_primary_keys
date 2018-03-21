@@ -12,7 +12,7 @@
 * [Inserting, updating, and deleting](https://www.lynda.com/Programming-Foundations-tutorials/Inserting-updating-deleting/412845/438447-4.html?autoplay=true)
 
 ## Slides:
-* [Primary Keys](https://github.com/dat17v1/09_databases_primary_keys/blob/master/slides/Database%20modeling_%20tables%20-%20keys.pdf)
+* [Primary Keys](https://github.com/dat17i/09_databases_primary_keys/blob/master/slides/Database%20modeling_%20tables%20-%20keys.pdf)
 
 ## Exercises:
 * [Zalando](https://docs.google.com/document/d/e/2PACX-1vT1o_3OQRlABEbRY79xQXejyIqiCUMEAzeQQw4-TTrBj6ViS1uB1j2jsZuYXsV306pNHa3tJs-YqGjP/pub)
